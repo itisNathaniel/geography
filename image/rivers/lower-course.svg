@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid" width="510" height="350" viewBox="40.5 25 510 350">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fdfdfd;
+      }
+
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-4, .cls-6 {
+        fill: #252525;
+      }
+
+      .cls-3, .cls-4, .cls-7 {
+        font-size: 25px;
+      }
+
+      .cls-4, .cls-6 {
+        text-anchor: middle;
+      }
+
+      .cls-4, .cls-7 {
+        font-family: "HelveticaNeue-Medium";
+      }
+
+      .cls-5, .cls-6 {
+        font-size: 41.667px;
+      }
+
+      .cls-6 {
+        font-family: "HelveticaNeue-Bold";
+        font-weight: bold;
+      }
+
+      .cls-7 {
+        fill: #e7e7e7;
+      }
+    </style>
+  </defs>
+  <g>
+    <image xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAAATAgMAAAAMidB3AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACVBMVEUBlOkBlOkAAADtR/iLAAAAAXRSTlP3Yz+/2QAAAAFiS0dEAmYLfGQAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAWSURBVCjPY2DAB0Jxg4BRyWEmiQ8AAMr6nbi/fnAsAAAAAElFTkSuQmCC" x="236" y="319" width="110" height="19"/>
+    <image xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAdYAAAAwCAMAAACbrqtDAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAABNVBMVEUAAACjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwCjbwAAAADepZxXAAAAZXRSTlMA/Y0JBHb02jsXxI8KNOPbPVr2kQOK3D4Qt5ILKdndP0vx/pQBed4xqR/O9Unq+VRo+vxgBpltFsJ7MuKJWGKID7W9J9ikSvCHd6dbHc1CNektHOGXE9Ielml0tFAOm+UIuXF9rxLzLpwAAAABYktHRACIBR1IAAAACXBIWXMAAC4jAAAuIwF4pT92AAACEElEQVR42u3bh04CQRSFYVawd8XeEbti7w17FxXF3r3v/wrGaFRUkDIzJxzmf4Iz+bKE3QWXZHROjtulKE9uHvo06nKhB6RbfoEa1cIi9ElUlvGs4hSXKFAtLUOfQ2mZzypSXpG2amUV+hBqY2AVpzq9C9Zbgz6B6ihYRWrr0lCtb0DPVx4JqziNTamqNregx6uPhVWktS011fYO9HIN8bCKrzOFC9bf5aB364iIVaS7J1nVkl70Zj1RsUpHkt+c+vrRizXFxSoDg8mo1g2h9+qKjFUCw4mrjoyi12qLjVXGxhNEnZhET9UYHav4phJSnZ5BD9UZH6vIbAKqc/PolVpjZJWFf1UXyR7t/4ySVZbio3qXfeiFmuNkDQTjqQZX0Pu0x8kqq57Yqmvr6HX6I2WVDX8s1c0t9DYDsbLK9t+o/p0x9DIT0bJK7l+q7l30LDPxsvr2fqvuH6BXGYqXVQKHP1VDR+hNpiJmla3jaNUTrh+NxouZNXx6FnW7GkEPMhczayT60RLf7wtjx8wq599ZL9BrTEbNevlN9Qo9xmjUrNdfqk1Z8RTiM2rWqs9/SQbD6C1mo2aVmw/VW+6X5r/jZr37+ATOolub97hZ79/e44QeHtE7jMfNKnMu/9No1l2r9KzP9S/oCZDIWVu60QswkbNma5aVMstKmWWlzLJSZlkps6yUWVbKLCtllpWyV5703TSqDdOFAAAAAElFTkSuQmCC" x="60" y="309" width="470" height="48"/>
+    <image xlink:href="data:img/png;base64,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" x="55" y="270" width="473" height="88"/>
+    <path d="M336.004,345.237 L315.549,345.237 L315.549,353.002 L296.996,338.000 L315.549,322.998 L315.549,330.763 L336.004,330.763 L336.004,345.237 Z" class="cls-1"/>
+    <path d="M285.271,232.220 L284.988,255.633 L277.043,255.589 L292.138,276.909 L307.746,255.758 L299.800,255.714 L300.083,232.301 L285.271,232.220 Z" class="cls-2"/>
+    <text x="291" y="218" class="cls-3"><tspan x="291" class="cls-4">Long valley and floodplain; up to several km</tspan></text>
+    <text x="291" y="167" class="cls-5"><tspan x="291" class="cls-6">Lower Course</tspan></text>
+    <text x="353" y="342" class="cls-3"><tspan class="cls-7">Wider channel</tspan></text>
+  </g>
+</svg>

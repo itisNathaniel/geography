@@ -26,6 +26,23 @@ body {
 }
 
 
+table, th, td {
+    border: 2px solid #000000;
+    border-collapse: collapse;
+    padding:0.5px;
+}
+
+td,th {
+    padding:2px;
+}
+
+span.minisection {
+    color: #000000;
+    border-left: 4px solid #676767;
+    padding-left: $spacing-unit / 2;
+
+}
+
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
