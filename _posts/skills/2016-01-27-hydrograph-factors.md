@@ -25,7 +25,7 @@ categories: skills
 
 1.***Hypothesis:***
 
-<img src="{{ site.baseurl }}/image/rivers/hydraulic-radius.svg" style="width:400px; float:right;">
+<img src="{{ site.baseurl }}/image/rivers/Hydraulic-radius.svg" style="width:400px; float:right;">
 As distance downstream increases, hydraulic radius (channel efficiency) will increase.
 
 Hydraulic radius is calculated by "cross-sectional area/wetted perimiter"
