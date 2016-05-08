@@ -2,10 +2,16 @@
  * Reset some basic elements
  */
 body, h1, h2, h3, h4, h5, h6,
-p, blockquote, pre, hr,
+p, blockquote, pre,
 dl, dd, ol, ul, figure {
     margin: 0;
     padding: 0;
+}
+
+hr {
+    padding: 0;
+    margin: 15px 0 15px 0;
+    color: #D9D9D9;
 }
 
 
@@ -26,23 +32,6 @@ body {
 }
 
 
-table, th, td {
-    border: 2px solid #000000;
-    border-collapse: collapse;
-    padding:0.5px;
-}
-
-td,th {
-    padding:2px;
-}
-
-span.minisection {
-    color: #000000;
-    border-left: 4px solid #676767;
-    padding-left: $spacing-unit / 2;
-
-}
-
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
@@ -59,9 +48,18 @@ ul, ol, dl, figure,
 /**
  * Images
  */
-img {
-    max-width: 100%;
-    vertical-align: middle;
+p img {
+    max-width: 50%;
+    display: block;
+    margin: 0 auto;
+    max-height:200px;
+}
+
+img + em, #MathJax-Element-1 + em, #MathJax-Element-2 + em, #MathJax-Element-3 + em, #MathJax-Element-4 + em {
+    text-align: center;
+    padding-top:10px;
+    display:block;
+    color:#575757;
 }
 
 
@@ -127,9 +125,12 @@ a {
  * Blockquotes
  */
 blockquote {
-    color: #000000;
-    border-left: 4px solid #676767;
+    color: $grey-color;
+    border-left: 4px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
+    font-size: 18px;
+    letter-spacing: -1px;
+    font-style: italic;
 
     > :last-child {
         margin-bottom: 0;
@@ -144,9 +145,11 @@ blockquote {
 pre,
 code {
     font-size: 15px;
+    font-family: 'roboto';
+    font-style: italic;
     border: 1px solid $grey-color-light;
     border-radius: 3px;
-    background-color: #eef;
+    background-color: #f7f7f7;
 }
 
 code {

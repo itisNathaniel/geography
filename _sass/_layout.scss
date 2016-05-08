@@ -16,26 +16,37 @@
     font-weight: 300;
     line-height: 56px;
     letter-spacing: -1px;
-    margin-bottom: 0;
+    margin-bottom: 15px;
     float: left;
-    color:#F0F0F0;
 
-    &,
-    &:visited {
-        color: #F0F0F0;
+    &, &:visited {
+        color: #ffffff !important;
     }
+}
+
+.asnotes {
+    float: right; 
+    padding-top:10px !important; 
+}
+
+@media (min-width:100px) and (max-width:600px) {
+.trigger {
+    background-color:#000000;
+}
+.asnotes {
+    margin-right:50px;
+}
 }
 
 .site-nav {
     float: right;
     line-height: 56px;
-
     .menu-icon {
         display: none;
     }
 
     .page-link {
-        color: #F0F0F0;
+        color: #ffffff;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the last one
@@ -193,7 +204,7 @@
 
 .post-link {
     display: block;
-    font-size: 19px;
+    font-size: 18px;
 }
 
 
@@ -206,7 +217,7 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 30px;
     letter-spacing: -1px;
     line-height: 1;
 
