@@ -6,6 +6,7 @@ permalink: /rivers/
 
 All topics and case studies in rivers: 
 
-{% for post in site.categories.rivers %}
-<li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% assign sorted_threat_posts = site.categories.rivers | sort: 'title', 'last' %}
+{% for post in sorted_threat_posts %}
+   <li style="list-style-type: none;"><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}

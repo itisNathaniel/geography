@@ -5,6 +5,7 @@ permalink: /population/
 ---
 All topics and case studies in population: 
 
-{% for post in site.categories.population %}
-<li><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% assign sorted_threat_posts = site.categories.population | sort: 'title', 'last' %}
+{% for post in sorted_threat_posts %}
+   <li style="list-style-type: none;"><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
