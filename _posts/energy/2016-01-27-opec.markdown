@@ -1,0 +1,33 @@
+---
+layout: post
+title:  8. OPEC - Orginisation of Petroleum Exporting Countries
+date:   2016-01-27 14:24:23 +0000
+categories: energy
+---
+![]({{ site.baseurl }}/image/energy/opec-member.jpg)
+*Map of OPEC member countries*
+
+**About:**
+
+* Formed 1960 to manage oil post WWII, founding memebers Venezuela, Iraq and Kuwait 
+* Manages 70% of the world's oil reserves
+* Produces 15% of both world oil and natural gas
+* Restrain competition by setting fixed quotas that its members can export to ensure that its members make maximim profit
+* Allows the organisation to increase or decrease world petroleum supply due to controlling many countries 
+* The majority of member countries are in the Middle-East and Africa
+
+**Aims**
+
+* Protect interests of member countries who provide oil
+* Originally in 1960 designed to stop falling and stabilise oil price
+* Ensure oil provided efficiently and ensure regular oil supply
+
+**Controversy:** 
+
+* In 1973 OPEC restricted oil production to inflate the price of oil
+* 1973 crisis meant problems for the US as fuel stations couldn't afford prices so ran out of fuel to sell
+* OPEC members were able to exploit the system for maximum profit and accomplish short-term interests for countries
+* Restrictions failed as they don't control everyone's oil, non-members like Russia start producing more at a lower price and reap the profits
+* In 1981 OPEC increased prices to $40 per barrel which was unaffordable for most countries
+* Countries started focussing on alternate energy sources, such as Norway heavily investing into Nuclear power
+* After pressure eventualy caved and reduced prices

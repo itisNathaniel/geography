@@ -15,6 +15,10 @@ categories: energy
 
 **Stock resource** - limited amount of a resource which when used will not be replaced 
 
+**Critical renewable resource** - self-generating if left to nature, if not used carefully existance can be threatened (i.e trees as fuelwood)
+
+**Non-critical renewable resource** - means it can be used over and over again. Such as solar and wind energy that can be repeatedly used
+
 **Sustainable development** - development that meets the needs of the present generation without compromising the needs of future generations
 
 **Primary energy** - energy sources in raw form such as oil, natural gas and wind turbines and water which can be used to provide secondary energy. 

@@ -1,0 +1,68 @@
+---
+layout: post
+title:  I9. Acid Rain (Case Study)
+date:   2016-01-27 14:24:23 +0000
+categories: energy example
+---
+
+**What is it:**
+
+* Major problem in the 1980s
+* More fumes containing nitric and sulfuric acid released meaning more pollutants in the air due to cars amongst other activities
+* Causes issues in North America as large area of forest lost and damage to industry
+
+**Caused by:**
+
+* Natural sources such as volcanic emissions, gases creating higer than normal amounts of acid rain
+* Wildfires and decay of vegitation make more acid rain causing gases
+* Cars that release nitrogen and sulphur in exhaust fumes 
+* Industrial areas with large amounts of traffic and power plants release gases that react with substances in the air to make nitric acid and sulphuric acid
+
+**Acid rain types:**
+
+* Wet deposition:
+	* Wind blows chemicals so fall to ground as sleet/snow
+	* Acidic water moves into canals and effects marine life as well as the sea
+* Dry deposition
+	* Wind blows acidic chemicals to where dry weather
+	* Pollutions become a part of smoke and fall to the ground as dry particulates 
+	* Pollutions washed from earth by rainstorms
+
+**Effects of acid rain:**
+
+* Aquatic issues as raises pH of water and kills marine life including fish
+* Forestry probelms as makes trees vulnerable to disease and damages bark
+* Effects soil as soil chemistry can't maintain optimum pH, causes stunted plant growth
+* Buildings damaged as reacts with minerals in limestone and corrodes them away
+* Affects buildings, cars, bridges and pipes and irreversable damage to old buildings and degrade marble
+
+**Solutions:**
+
+* Clean exhaust and factory chimneys using chemical scrubbers to chemically remove sulpur from emissions
+* Adding lime to lakes and rivers to undo pH change
+* Cleaner energy such as geothermal, solar or hydropower
+* Government policy, making too high emissions illegal
+
+<div class="know know-info">
+<i class="fa fa-book" aria-hidden="true"> </i> Case Study:<b>
+Acid Rain - Canada	
+</b></div>
+
+* **Causes**
+	* USA main pollution producer which moves by wind from US to Canada
+	* Acid rain moves to Canada with neutral soil meaning becomes acid
+	* Most Canada granite which is susceptible to acid rain and no natural buffer to acid
+
+* **Damages**
+	* 14,000 lakes acidic killing plants and birds
+	* Spruce, fir and pine being killed and growth stunted
+	* Pollution causing respiratory diseases like bronchitus and asthma
+	* 84% of agricultural land polluted by acid rin
+	* Marble and limestone buildings dissolved away meaning 4% weight decrease per year
+
+* **Solutions**
+	* On a small scale trees can be sprayed down to wash off acid and reduce impact, doesn't however work for large areas
+	* Canada replacing coal power with gas power to reduce pollution
+	* Lime added to rivers, lakes and soil to neutralise acid which is very expensive
+	* Power station scrubbers remove sodium and nitrogen oxides, expensive for power stations but very effective 
+

@@ -48,11 +48,11 @@ ul, ol, dl, figure,
 /**
  * Images
  */
-p img {
+p img, li img {
     max-width: 50%;
     display: block;
     margin: 0 auto;
-    max-height:200px;
+    max-height:250px;
 }
 
 img + em, #MathJax-Element-1 + em, #MathJax-Element-2 + em, #MathJax-Element-3 + em, #MathJax-Element-4 + em {

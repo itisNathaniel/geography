@@ -15,7 +15,10 @@ categories: energy casestudy
 *The northern and southern hemisphere*
 
 
-**🇬🇧 UK consumption case study - MEDC**
+<div class="know know-info">
+<i class="fa fa-book" aria-hidden="true"></i>Case Study:<b>
+MEDC - UK Energy consumption
+</b></div>
 
 * Greatest amount of UK energy is supplied by gas, which is 38% of the total for the world
 * Oil is the 2nd largest supply at 35%
