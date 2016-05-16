@@ -1,0 +1,98 @@
+---
+layout: post
+title:  01. Key Terms
+date:   2016-01-27 14:24:23 +0000
+categories: population
+---
+
+**Birth Rate** - Amount of births per 1000 people
+
+**Death Rate** - Amount of deaths per 1000 people
+
+**Natural Increase** - Growth in population due to birth rate being higher than death rate
+
+**Natural Decrease** - Decrease in population due to death rate being higher than birth rate
+
+**Doubling Time** - the number of years it takes for the population to double
+
+**Infant mortality rate** - Number of deaths of children under 1 year per 1000 live births
+
+**Life expectancy** - Average number of years from birth a person is expected to live
+
+**Longevity** - Increase in life expectancy over a period of time
+
+**Natural Change** - Change in population size due to the relationship between birth and death rates
+
+**Mortality Rate** - Measure of number of deaths in a population
+
+\\[ Population \ Growth \ Rate  = \dfrac {Population\ at\ end\ of\ time\ period\ - population\ at\ start\ of\ time\ period} {Population\ at\ beginning\ of\ time\ period}\\]
+
+**Demographics:** Statistical study of population
+
+**Population explosion:** Sudden rise in the number of people in an area
+
+**Population distrubution:** How many people are are spread out over an area
+
+**Population density:** Number of people living in a given area, in square kilometres 
+
+**Population structure:** Breakdown of a countries population into a group defined by age and gender
+
+--- 
+<a name="fertility"></a>*Fertility Terms*
+
+**Fertility rate** - Average number of children a woman has in her lifetime
+
+**Total fertility rate (TFR)** - number of children a woman is expected to have in a lifetime. Present world average 2.5, one of best indicators of population growth.
+
+**Crude Birth Rate** - Number of births per 1000 people
+
+**Replacement rate** - Number of children to replace its population per woman, current world average is 2.1
+
+---
+<a name="migration"></a>*Migration Terms*
+
+**Migration** - Movement of people from one place to another to live and work
+
+**Migration rate** - Number of people leaving an area over period of time
+
+**Immigration** - When people enter a country
+
+**Emigration** - When people leave a country
+
+**Pull factors** - Things that attract people to live in an area
+
+**Push factors** - Things that make people want to leave an area
+
+**Internal Migration** - Migration within a country
+
+**International Migration** - Migration between countries
+
+**Rural-urban migration** - Migration from country into cities
+
+**Immigrant** - Person who moves from one country to another
+
+**Emigrant** - Person who left a country to migrate to another
+
+**Refugee** - Person who has fled from danger, famine to another country
+
+**Immigration** - Migration into a country
+
+**Emigration** - Migration out of a country
+
+**Right of Asylum** - Protection given to a political refugee by a country
+
+---
+
+<a name="business"></a>*Business Terms*
+
+**Primary Sector** - Raw material extraction such as coal mining, oil drilling, fish trawling and farming
+
+**Secondary Sector** - Manufacturing and assembly, converting raw materials into components (i.e plastics from oil), also assembly such as building houses and roads 
+
+**Tertiary Sector** - Commercial services such as production and distrubution, i.e. sales, transport, advertising and health
+
+
+**Quaternary Sector** - Knowledge based services such as consultancy, financial planning, IT, science and medical, entertain,ent and culture
+
+
+

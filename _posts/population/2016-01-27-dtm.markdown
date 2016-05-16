@@ -1,0 +1,59 @@
+---
+layout: post
+title:  06. Demographic Transition Model
+date:   2016-01-27 14:24:23 +0000
+categories: population example
+---
+
+**What is the DTM?**
+
+* Diagram to show how the population change of a country over time
+* Studies birth and death rate of a country
+
+**Advantages and Disadvantages of DTM:**
+
+| Advantages                                                                                              | Disadvantages                                                                                                                                                             |
+|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Can be expanded over time, as it was for stage 5                                                        | Birth rate started decreasing in Germany and model didn't  account for this possibility so stage 5 had to be added                                                        |
+| Works well for European countries such as UK, Germany, Italy in addition to non-EU countries like India | European-centric so assumes all countries will pass all 5 stages. However some African countries will never develop                                                       |
+| Highlights important events like the UK's death rate drop as hospitals increased                        | Model assumes that the stage 2 death rate decrease was industrialisation as it was in Britain. In many other countries not happened as no  state-based healthcare service |
+| Worked for East-Asian countries like South Korea but sped up dueto better technology and medicine       | Timescale is variable, stage 1-4 in UK took 200 years, China took 50 years                                                                                                |
+| Easy to understand and make comparisons from                                                            | Doesn't account for migration                                                                                                                                             |
+
+---
+<div class="know know-example">
+<i class="fa fa-book" aria-hidden="true"></i> Examples:<b>
+Named example for each DTM stage
+</b></div>
+![]({{ site.baseurl }}/image/population/dtmstage-pyramid.jpg)
+*DTM Stages and Population Pyramids for each stage - NEED TO RECALL*
+
+1. **Stage 1 - *currently Bangladesh***
+	* High birth and high death ratrs
+	* Population growth is small
+	* Birth rate high as limited contraception, no family planning, high infant mortality (more children, greater chance one survives)
+	* Death rate high as disease and plague, poor diet and famine and poor sanitation and healthcare
+ 
+ 2. **Stage 2 - *Currently Sri Lanka***
+	* High birth rates
+	* Death rates drop to 20 per 1000 people
+	* Overall population increases
+	* Death rates decrease due to medical services, clean water, sanitiation, decreased infant mortality
+
+3. **Stage 3 - *Currently Brazil***
+	* Birth rates fall as family planning and contraception available
+	* Birth rates drop to 20 per 1000 people
+	* Overall population increases
+	* Family planning available and increased industry
+	* Incentives for smaller families and women have a better status in society so can go out and work
+
+4. **Stage 4 - *Currently UK***
+	* Birth and death rates both stay low at 20 per 1000 so total population remains stable
+	* Contraception freely available 
+	* Steady population
+
+4. **Stage 5 - *Currently Germany***
+	* Family planning, women having children at older ages and fewer children due to better jobs so birth rate decreased further as fertility rate drops
+	* Death rate is now proportionally larger than birth rate
+	* Population total starts to decline
+	* Population is now aging and showing natural decrease

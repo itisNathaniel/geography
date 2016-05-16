@@ -1,16 +1,44 @@
 ---
 layout: page
-title: Case Studies
-permalink: /casestudies/
+title: Case Studies/Examples
+permalink: /casestudyandexample/
 ---
-All case studies by unit: 
+All case studies and examples by unit: 
 
-**Energy Case Studies:**
+**Energy:**
 
+* Case Studies:
 
-{% assign sorted_threat_posts = site.categories.energy | sort: 'title', 'last' %}
-{% assign sorted_threat_posts = site.categories.casestudy | sort: 'title', 'last' %}
-
-{% for post in sorted_threat_posts %}
+{% for post in site.posts | sort: 'title', 'last' %}
+    {% if post.categories contains 'energy' and post.categories contains 'casestudy' %}
    <li style="list-style-type: none;"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+<br>
+
+* Examples:
+
+{% for post in site.posts | sort: 'title', 'last' %}
+    {% if post.categories contains 'energy' and post.categories contains 'example' %}
+   <li style="list-style-type: none;"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+
+---
+
+**Population:**
+
+* Case Studies:
+{% for post in site.posts | sort: 'title', 'last' %}
+    {% if post.categories contains 'population' and post.categories contains 'casestudy' %}
+   <li style="list-style-type: none;"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+{% endfor %}
+<br>
+
+* Examples:
+{% for post in site.posts | sort: 'title', 'last' %}
+    {% if post.categories contains 'population' and post.categories contains 'example' %}
+   <li style="list-style-type: none;"><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
 {% endfor %}
