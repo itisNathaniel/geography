@@ -94,5 +94,11 @@ categories: population
 
 **Quaternary Sector** - Knowledge based services such as consultancy, financial planning, IT, science and medical, entertain,ent and culture
 
+---
 
+<a name="country"></a>*Country Terms*
+
+**Human carrying capacity** - the maximum rate of resource consumption that can be maintained without destrution to environment and people that can be maintained at this rate
+
+**Cultural carrying capacity** - maximum rate of resource consumption and people that can be maintained at this rate, accounting for the fact people won't live without some luxuaries
 

@@ -1,0 +1,48 @@
+---
+layout: post
+title:  06.5. DTM and the UK
+date:   2016-01-27 14:24:23 +0000
+categories: population
+---
+
+<div class="know know-info">
+<i class="fa fa-book" aria-hidden="true"></i> Example:<b>
+Relating the UK to the DTM
+</b></div>
+
+* **UK patterns**
+	* UK birth rate high in the middle ages at around 35-1000
+	* 1348-1349 caused a large increase in death rate due to the bubonic plague which killed 1/3rd of the population
+	* Death rate increased by the great plague in 1665
+	* Mortality rate increased between 1720 and 1740 due to the *gin tax* and people homebrewing to bypass it
+	* In 1875 there was a fall in death rate due to public halth improvement and clean water availability as well as better food, as well as public hygine and vaccination
+	* Birth rate fell in 1875 after medical science affected death rate, anaestesia available for surgery, maternity care and child welfare prioritied 
+	* Between 1890 and 1930 BR fell from 32/1000 to 17/1000
+
+	<br>
+
+* **When was the UK at each stage?**
+
+	1. Stage 1 
+		* Between 1700-1750
+		* Dealth rate increase in 1720 due to alcohol ban causing homebrewing and death
+
+	2. Stage 2
+		* Between 1740-1880
+		* Death rates decreased due to voluntary hospitals and medication and sanitation
+		* Birth rate steady, children registered voluntarily 
+		* Small pox vaccinations available and ban on child labour
+
+	3. Stage 3 
+		* 1880-1930
+		* Compulsory child registration and death
+		* Birth control available
+		* WWI causes drop in births
+		* National insurance brought into action
+
+	4. Stage 4
+		* 1930-present
+		* Post war baby-boom 
+		* Natural in 1978  
+
+	

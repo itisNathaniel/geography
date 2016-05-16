@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  13.5. China anti-natalist policy (Case Study)
+title:  13.5. China anti-natalist policy (the stick) (Case Study)
 date:   2016-01-27 14:24:23 +0000
 categories: population casestudy
 ---
