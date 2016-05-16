@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  7. Falkland Energy conflict
+title:  07. Falkland Energy conflict
 date:   2016-01-27 14:24:23 +0000
 categories: energy example
 ---

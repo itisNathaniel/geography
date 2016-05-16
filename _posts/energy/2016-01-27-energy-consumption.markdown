@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  3. Energy consumption (Case Studies)
+title:  03. Energy consumption (Case Studies)
 date:   2016-01-27 14:24:23 +0000
 categories: energy casestudy
 ---

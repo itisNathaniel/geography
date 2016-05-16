@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  9. Geopolitics
+title:  09. Geopolitics
 date:   2016-01-27 14:24:23 +0000
 categories: energy
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I0. Russia's Oil (Case Study)
+title:  10. Russia's Oil (Case Study)
 date:   2016-01-27 14:24:23 +0000
 categories: energy casestudy
 ---

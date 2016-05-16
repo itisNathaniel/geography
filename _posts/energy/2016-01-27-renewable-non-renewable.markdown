@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  2. Renewable and non-renewable resources
+title:  02. Renewable and non-renewable resources
 date:   2016-01-27 14:24:23 +0000
 categories: energy
 ---

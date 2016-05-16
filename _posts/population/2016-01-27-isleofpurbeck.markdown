@@ -2,11 +2,11 @@
 layout: post
 title:  17. Isle of Purbeck
 date:   2016-01-27 14:24:23 +0000
-categories: population example
+categories: population casestudy
 ---
 
 <div class="know know-info">
-<i class="fa fa-book" aria-hidden="true"></i> Example:<b>
+<i class="fa fa-book" aria-hidden="true"></i> Case Study:<b>
 Isle of Purbeck
 </b></div>
 

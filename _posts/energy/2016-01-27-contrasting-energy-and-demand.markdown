@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I5. Contrasting low and high energy consumption (Case Studies)
+title:  15. Contrasting low and high energy consumption (Case Studies)
 date:   2016-01-27 14:24:23 +0000
 categories: energy casestudy
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I9.2. Potential to exhaust fossil fuels
+title:  19.2. Potential to exhaust fossil fuels
 date:   2016-01-27 14:24:23 +0000
 categories: energy
 ---

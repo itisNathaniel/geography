@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  1. Energy types
+title:  01. Energy types
 date:   2016-01-27 14:24:23 +0000
 categories: energy
 ---

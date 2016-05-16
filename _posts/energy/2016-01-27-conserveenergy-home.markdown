@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  I6. Conserving energy in the home - BedZed
+title:  16. Conserving energy in the home - BedZed
 date:   2016-01-27 14:24:23 +0000
 categories: energy example
 ---

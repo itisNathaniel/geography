@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  4. Consumption for LEDC and MEDCs (Case Studies)
+title:  04. Consumption for LEDC and MEDCs (Case Studies)
 date:   2016-01-27 14:24:23 +0000
 categories: energy casestudy
 ---

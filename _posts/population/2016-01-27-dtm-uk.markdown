@@ -2,7 +2,7 @@
 layout: post
 title:  06.5. DTM and the UK
 date:   2016-01-27 14:24:23 +0000
-categories: population
+categories: population example
 ---
 
 <div class="know know-info">

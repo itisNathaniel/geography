@@ -2,11 +2,11 @@
 layout: post
 title:  11.5. 'LEDC → MEDC' and 'MEDC → MEDC' migration (Case Studies)
 date:   2016-01-27 14:24:23 +0000
-categories: population casestudy
+categories: population example
 ---
 
-<div class="know know-info">
-<i class="fa fa-book" aria-hidden="true"></i> Case Study:<b>
+<div class="know know-example">
+<i class="fa fa-book" aria-hidden="true"></i> Example:<b>
 MEDC → MEDC - Poland to UK Migration
 </b></div>
 
@@ -46,8 +46,8 @@ MEDC → MEDC - Poland to UK Migration
 
 ---
 
-<div class="know know-info">
-<i class="fa fa-book" aria-hidden="true"></i> Case Study:<b>
+<div class="know know-example">
+<i class="fa fa-book" aria-hidden="true"></i> Example:<b>
 LEDC → MEDC - Mexico to US migration
 </b></div>
 

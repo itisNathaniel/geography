@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  6. Who supplies who?
+title:  06. Who supplies who?
 date:   2016-01-27 14:24:23 +0000
 categories: energy
 ---
